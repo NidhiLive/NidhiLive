@@ -1,8 +1,8 @@
 ### Hey there 👋 I'm Nidhin Vincent
 
-#### Frontend Developer
+#### UI Developer
 
->Meticulous web developer with over 2 years of front end experience and passion for responsive website design and a firm believer in the mobile-first approach. W3C certified. Implemented new responsive website approach which increased mobile traffic by 20%.
+>Meticulous UI developer with over 10 years of front end experience and passion for responsive website design and a firm believer in the mobile-first approach. W3C certified. Implemented new responsive website approach which increased mobile traffic by 20%.
 
 
 - 💬 Ask me about Angular | Typescript | SCSS
